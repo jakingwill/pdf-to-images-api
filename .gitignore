@@ -1,0 +1,6 @@
+node_modules/
+temp/
+*.png
+*.pdf
+.env
+.DS_Store
